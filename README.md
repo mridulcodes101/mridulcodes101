@@ -12,7 +12,7 @@ Tech:
 C++ • Java • JavaScript • HTML • CSS • React • Node.js • Git
 
 Highlights:
-- 350+ LeetCode problems solved
+- 450+ LeetCode problems solved
 - Built 3 projects
 - JLPT N3 certified
 - Open-source contributions
